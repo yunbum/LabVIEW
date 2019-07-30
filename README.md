@@ -3,4 +3,5 @@ LabVIEW code for real application
 
 motor control code add for pendulum using sime serial code
 
-![MW_DCS01](./image/MW_DCS01.jpg )
+![MW_DCS01](./image/MW_DCS01.jpg ){:height="50%" width="50%"}
+
